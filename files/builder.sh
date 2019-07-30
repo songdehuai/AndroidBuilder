@@ -1,0 +1,1 @@
+cd /Users/songdehuai/AndroidStudioProjects/PluginTest/ && gradle clean assembleProjectTest2Release
